@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MIHIR LAKHANI</h1>
-<img width="5cm" height="8cm" src="https://www.behance.net/gallery/124591371/behance-banner">
+
 <h3 align="center">An Electronics and Electrical Sophomore at BITS PILANI</h3>
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
